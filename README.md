@@ -16,8 +16,8 @@ I'm fascinated by how Machine Learning and Artificial Intelligence can transform
 💬 Let's Connect!
 I'm always open to new ideas and collaborations. Let's build something amazing together!
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourlinkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=flat&logo=github)](https://github.com/sara-tech7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin)](www.linkedin.com/in/sara-saleem-533161290)
 
 
 <!---
